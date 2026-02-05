@@ -8,4 +8,8 @@ public class Empresa {
         d1.setNumEmpleados(25);
 
         d1.setNumEmpleados(d1.getNumEmpleados()+1);
-        d1.anadir(e1); System.out.println(d1); } }
+        d1.anadir(e1); System.out.println(d1); 
+
+        // Versión 1 verificada
+        } 
+    }
